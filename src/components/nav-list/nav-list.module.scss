@@ -18,18 +18,31 @@
   font-weight: 600;
   list-style-type: none;
   color: #ffffff;
+  &:hover {
+    border: 1px solid #a6a1a1;
+    margin: 0rem;
+    padding: 0.1rem;
+  }
 }
 .faq {
   font-weight: 600;
   list-style-type: none;
   margin: 0rem 0rem 0rem 0.8rem;
   color: #ffffff;
+  &:hover {
+    padding: 0.1rem;
+    border: 1px solid #a6a1a1;
+  }
 }
 .login {
   font-weight: 600;
   list-style-type: none;
   margin: 0rem 0rem 0rem 0.8rem;
   color: #ffffff;
+  &:hover {
+    padding: 0.1rem;
+    border: 1px solid #a6a1a1;
+  }
 }
 .cflContainer {
   display: grid;

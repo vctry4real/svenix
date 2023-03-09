@@ -26,4 +26,8 @@
   border-radius: 0.5rem;
   margin: 0.5rem 0.5rem 0.5rem 2rem;
   width: 6rem;
+  &:hover {
+    box-shadow: 0.87px 2.87px 7px #a6a1a1;
+    background-color: #a6a1a1;
+  }
 }
