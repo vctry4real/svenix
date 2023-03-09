@@ -9,3 +9,23 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+.listDiv {
+  display: flex;
+  padding: 1rem;
+  margin: 0rem;
+  width: 100%;
+}
+.li {
+  margin: 0rem 5rem 0rem 0rem;
+  color: #fefefe;
+}
+.btn {
+}
+
+* {
+  box-sizing: border-box;
+}
+*:focus {
+  background-color: #3c3939;
+  box-shadow: 3px 3px 2px black;
+}

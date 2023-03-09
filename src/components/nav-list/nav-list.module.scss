@@ -1,0 +1,41 @@
+.root {
+  width: 50rem;
+}
+.div {
+  display: flex;
+  padding: 1rem;
+}
+.li {
+  margin: 0rem 5rem 0rem 0rem;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+  list-style-type: none;
+  color: #ffffff;
+  font-family: American Typewriter, serif;
+  font-size: 30px;
+}
+.contact {
+  font-weight: 600;
+  list-style-type: none;
+  color: #ffffff;
+}
+.faq {
+  font-weight: 600;
+  list-style-type: none;
+  margin: 0rem 0rem 0rem 0.8rem;
+  color: #ffffff;
+}
+.login {
+  font-weight: 600;
+  list-style-type: none;
+  margin: 0rem 0rem 0rem 0.8rem;
+  color: #ffffff;
+}
+.cflContainer {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 0em 2em;
+  margin-left: 15rem;
+  align-self: center;
+}

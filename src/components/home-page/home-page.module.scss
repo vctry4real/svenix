@@ -1,0 +1,65 @@
+.root {
+}
+.container {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  background-color: #030303;
+  padding: 3rem 0rem 0rem;
+  width: 100%;
+  height: 100vh;
+}
+.article1 {
+  color: #fff;
+  margin-bottom: 1rem;
+  width: 70%;
+  margin-left: 2rem;
+}
+.article2 {
+  color: #e7e1e1;
+  width: 70%;
+  margin: 2rem 0rem 0rem 2rem;
+  font-family: Luminari;
+}
+.h6 {
+  margin-left: 3rem;
+  color: #e7e1e1;
+  margin-top: 2rem;
+  text-align: start;
+}
+.btnContainer {
+  margin-left: 2rem;
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  width: 15rem;
+  gap: 0em 2em;
+}
+.articleContainer {
+  text-align: start;
+  margin-top: 2rem;
+}
+.appleLogo {
+  font-size: 1.5rem;
+  margin-top: 0rem;
+  margin-left: 0.5rem;
+  margin-right: 0rem;
+  padding-top: 0rem;
+  align-self: center;
+}
+.p {
+  margin-left: 0rem;
+  margin-right: 0rem;
+  width: 4rem;
+}
+.playstoreLogo {
+  margin: 0rem 0rem 0rem 1rem;
+  font-size: 1.5rem;
+  color: rgb(255, 255, 255);
+}
+.image {
+  width: 19rem;
+  margin-left: 3rem;
+  height: 27rem;
+  border-radius: 3rem;
+}

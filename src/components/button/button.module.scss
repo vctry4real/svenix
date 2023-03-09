@@ -1,0 +1,23 @@
+.root {
+  display: block;
+}
+.primarybtn {
+  min-height: 3rem;
+  border-radius: 3rem;
+  min-width: 8rem;
+  color: #fff;
+  background-color: #030303;
+  border: 2px solid #fff;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr;
+  align-self: center;
+  padding-bottom: 0rem;
+  display: flex;
+  column-gap: 0em;
+  align-items: center;
+  &:hover {
+  }
+  &:hover {
+    background-color: #3c3939;
+  }
+}

@@ -1,0 +1,32 @@
+[  
+    {
+        "name": "React Icons",
+        "components": [
+            {
+                "filePath": "react-icons/tb",
+                "exportName": "TbBrandApple",
+                "name": "Apple Logo"
+            },
+            {
+                "filePath": "react-icons/fa",
+                "exportName": "FaGooglePlay",
+                "name": "PlayStore Logo"
+            },
+            {
+                "filePath": "react-icons/im",
+                "exportName": "ImFacebook",
+                "name": "Facebook"
+            },
+             {
+                "filePath": "react-icons/bs",
+                "exportName": "BsInstagram",
+                "name": "Instagram"
+            },
+             {
+                "filePath": "react-icons/bs",
+                "exportName": "BsTwitter",
+                "name": "Twitter"
+            }
+        ]
+    }
+]  
